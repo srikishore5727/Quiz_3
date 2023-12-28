@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#body {
+    width: 100%;
+    height: 100vh;
+    background-color: #47398D;
+    position: fixed;
+}
+
+#heading {
+    color: white;
+    font-weight: lighter;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    margin: 200px 520px 30px 520px;
+}
+
+#playBtn {
+    background-color: #0AB306;
+    border-radius: 50px;
+    display: block;
+    margin:auto;
+}
+
+#container{
+    color: white;
+    margin-top:180px;
+    text-align: center;
+}
+
+#container button{
+    margin: 30px;
+    width: 240px;
+    padding: 8px;
+    font-size: large;
+    border-radius: 20px;
+    color: white;
+    background-color: #0AB306;
+}
+
+#subContainer {
+    height: 500px;
+    width: 90vw;
+    background-color: white;
+    margin: 50px auto;
+    border-left: 5px solid #8686F3;
+}
+
+
+#answer-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#answer-box button {
+    width: 420px;
+    padding: 12px;
+    margin: 10px;
+    border-radius: 50px;
+    background-color: #1EA1F2;
+    color: white;
+    border: 0;
+}
+
+#option-box {
+    text-align: center;
+    padding-top:30px;
+}
+
+#option-box>button {
+    padding: 8px;
+    width: 100px;
+    margin: 20px;
+    border: 0;
+}
+
+.results{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#result-board{
+    height: 50vh;
+    width: 50vw;
+background-color: white;
+padding: 10px;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+align-items: center;
+
+}
+
+
+button:hover {
+    cursor: pointer;
+}
+
+#contentOne {
+    margin-top: -100px;
+}
+
+#choiceBox {
+    margin-top: 200px;
+}
+
+#quesHead,
+#ques {
+    text-align: center;
+    padding-top: 40px;
+}
+
+#ques {
+    font-weight: bold;
+    padding-bottom:40px;
+}
+
+#noQues {
+    margin-left: 30px;
+}
+
+#result {
+    text-align: center;
+    color: #008001;
+    margin-bottom: 40px;
+}
+
+#resultContainer {
+    height: 350px;
+    margin: auto;
+    width: 50vw;
+    background-color: white;
+    border-left: 5px solid #8686F3;
+}
+
+.resultFlex {
+    display: flex;
+    width: 580px;
+    margin-top: 20px;
+    margin-left: 25px;
+    justify-content: space-between;
+}
+
+
+#center-div {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#scorePercentage {
+    color: #0000FF;
+}
+
+#resinfo {
+    font-size: 18px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+#scorePercentage {
+    padding-top: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+#resParent {
+    margin-top: 50px;
+}
+
+#button {
+    display: inline-block;
+    margin: 30px 460px;
+}
+
+#playagainBtn {
+    height: 30px;
+    width: 150px;
+    font-weight: bold;
+    color: #9B9BDE;
+    border: 2px solid #9B9BDE;
+}
+
+#backBtn {
+    height: 30px;
+    width: 150px;
+    font-weight: bold;
+    color: #008001;
+    border: 2px solid #008001;
+    margin-left: 50px;
+}

@@ -1,0 +1,154 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "optionA": "Central Processing Unit",
+        "optionB": "Computer Personal Unit",
+        "optionC": "Central Processor Unit",
+        "optionD": "Central Printed Unit",
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "What is the primary purpose of RAM in a computer?",
+        "optionA": "Run the operating system",
+        "optionB": "Store long-term data",
+        "optionC": "Temporarily store data for processing",
+        "optionD": "Manage internet connectivity",
+        "answer": "Temporarily store data for processing"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "optionA": "Hyper Text Markup Language",
+        "optionB": "High-level Text Machine Language",
+        "optionC": "Hyper Transfer Markup Language",
+        "optionD": "Hyperlink and Text Markup Language",
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Which programming language is often used for web development?",
+        "optionA": "Java",
+        "optionB": "Python",
+        "optionC": "JavaScript",
+        "optionD": "C++",
+        "answer": "JavaScript"
+    },
+    {
+        "question": "What is the purpose of a firewall in computer security?",
+        "optionA": "Monitor internet speed",
+        "optionB": "Prevent unauthorized access",
+        "optionC": "Increase computer performance",
+        "optionD": "Generate system backups",
+        "answer": "Prevent unauthorized access"
+    },
+    {
+        "question": "Which of the following is an example of an input device?",
+        "optionA": "Printer",
+        "optionB": "Monitor",
+        "optionC": "Keyboard",
+        "optionD": "Speakers",
+        "answer": "Keyboard"
+    },
+    {
+        "question": "What is the file extension of a Word document?",
+        "optionA": ".txt",
+        "optionB": ".docx",
+        "optionC": ".pdf",
+        "optionD": ".exe",
+        "answer": ".docx"
+    },
+    {
+        "question": "What does URL stand for?",
+        "optionA": "Uniform Resource Locator",
+        "optionB": "Universal Reference Locator",
+        "optionC": "Unified Request Locator",
+        "optionD": "Underlying Resource Link",
+        "answer": "Uniform Resource Locator"
+    },
+    {
+        "question": "Which company developed the Java programming language?",
+        "optionA": "Microsoft",
+        "optionB": "Apple",
+        "optionC": "Sun Microsystems",
+        "optionD": "IBM",
+        "answer": "Sun Microsystems"
+    },
+    {
+        "question": "What is the purpose of an operating system?",
+        "optionA": "Manage hardware components",
+        "optionB": "Create documents and files",
+        "optionC": "Play games",
+        "optionD": "Browse the internet",
+        "answer": "Manage hardware components"
+    },
+    {
+        "question": "In computer science, what does GUI stand for?",
+        "optionA": "Graphical User Interface",
+        "optionB": "General User Interaction",
+        "optionC": "Graphical User Instruction",
+        "optionD": "General User Interface",
+        "answer": "Graphical User Interface"
+    },
+    {
+        "question": "What is the purpose of an IP address?",
+        "optionA": "Identify a person",
+        "optionB": "Identify a computer on a network",
+        "optionC": "Identify a website",
+        "optionD": "Identify a file",
+        "answer": "Identify a computer on a network"
+    },
+    {
+        "question": "Which programming language is often used for data analysis and machine learning?",
+        "optionA": "Java",
+        "optionB": "Python",
+        "optionC": "C#",
+        "optionD": "Ruby",
+        "answer": "Python"
+    },
+    {
+        "question": "What is the purpose of the command 'sudo' in Unix-like operating systems?",
+        "optionA": "Shut down the system",
+        "optionB": "Install software",
+        "optionC": "Switch to a different user",
+        "optionD": "Update the operating system",
+        "answer": "Switch to a different user"
+    },
+    {
+        "question": "Which programming language is known for its use in developing mobile applications?",
+        "optionA": "C++",
+        "optionB": "Java",
+        "optionC": "Swift",
+        "optionD": "PHP",
+        "answer": "Swift"
+    },
+    {
+        "question": "What is the purpose of a database management system (DBMS)?",
+        "optionA": "Play music",
+        "optionB": "Manage and organize data",
+        "optionC": "Browse the internet",
+        "optionD": "Edit images",
+        "answer": "Manage and organize data"
+    },
+    {
+        "question": "What is the function of the 'if' statement in programming?",
+        "optionA": "Repeat a block of code",
+        "optionB": "Declare a variable",
+        "optionC": "Perform conditional execution",
+        "optionD": "Define a function",
+        "answer": "Perform conditional execution"
+    },
+    {
+        "question": "Which computer hardware component is responsible for storing data permanently?",
+        "optionA": "RAM",
+        "optionB": "CPU",
+        "optionC": "Hard disk drive (HDD)",
+        "optionD": "Graphics card",
+        "answer": "Hard disk drive (HDD)"
+    },
+    {
+        "question": "What is the purpose of the 'git' version control system?",
+        "optionA": "Create graphics",
+        "optionB": "Manage and track changes in source code",
+        "optionC": "Play games",
+        "optionD": "Compose music",
+        "answer": "Manage and track changes in source code"
+    }
+]
